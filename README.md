@@ -1,2 +1,8 @@
 # Waku-Compiler
-A simple try to make compiler using Tkinter
+A simple try to make mini c compiler using Tkinter
+
+This Compiler can take input of a C program using python Tkinter
+Funtions Of this Compiler:
+* Remove Comment & Header Files
+* Tokeniztion Table
+* Symbol table management
