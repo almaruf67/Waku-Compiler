@@ -8,5 +8,5 @@ Funtions Of this Compiler:
 * Tokenization Table
 * Symbol table management
 
-#Author: 
+# Author: 
 **Abdullah Al Maruf, Md. Abu Al Siam Talukdar & Afifatun Jannat.**
