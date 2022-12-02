@@ -7,3 +7,5 @@ Funtions Of this Compiler:
 * Remove Comment & Header Files
 * Tokenization Table
 * Symbol table management
+
+# Author- Abdullah Al Maruf, Md. Abu Al Siam Talukdar & Afifatun Jannat.
